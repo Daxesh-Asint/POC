@@ -1,0 +1,42 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+README.md
+*.md
+
+# Environment files
+.env
+.env.local
+.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies (if you add Node.js later)
+node_modules/
+.npm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cloud Build
+cloudbuild.yaml
+.gcloudignore
+
+# GitHub Actions
+.github/
+
+# Temporary files
+*.tmp
+*.temp
